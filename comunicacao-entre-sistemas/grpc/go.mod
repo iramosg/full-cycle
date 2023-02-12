@@ -1,4 +1,4 @@
-module github.com/iramosg/full-cycle/comunicaca-entre-sistemas/grpc
+module github.com/iramosg/full-cycle/comunicacao-entre-sistemas/grpc
 
 go 1.20
 

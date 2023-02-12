@@ -4,9 +4,9 @@ import (
 	"database/sql"
 	"net"
 
-	"github.com/iramosg/full-cycle/comunicaca-entre-sistemas/grpc/internal/database"
-	"github.com/iramosg/full-cycle/comunicaca-entre-sistemas/grpc/internal/pb"
-	"github.com/iramosg/full-cycle/comunicaca-entre-sistemas/grpc/internal/service"
+	"github.com/iramosg/full-cycle/comunicacao-entre-sistemas/grpc/internal/database"
+	"github.com/iramosg/full-cycle/comunicacao-entre-sistemas/grpc/internal/pb"
+	"github.com/iramosg/full-cycle/comunicacao-entre-sistemas/grpc/internal/service"
 	_ "github.com/mattn/go-sqlite3"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/reflection"
