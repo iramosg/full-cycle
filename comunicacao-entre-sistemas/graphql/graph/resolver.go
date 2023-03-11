@@ -8,4 +8,5 @@ import "github.com/iramosg/full-cycle/comunicacao-entre-sistemas/graphql/interna
 
 type Resolver struct{
 	CategoryDB *database.Category
+	CourseDB *database.Course
 }
